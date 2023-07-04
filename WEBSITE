@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Louis and Clark - Online Clothing Company</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Welcome to Louis and Clark</h1>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Shop</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section>
+      <h2>Featured Products</h2>
+      <!-- Add your featured products here -->
+    </section>
+
+    <section>
+      <h2>About Us</h2>
+      <!-- Add information about your company here -->
+    </section>
+
+    <section>
+      <h2>Contact Us</h2>
+      <!-- Add a contact form or contact information here -->
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2023 Louis and Clark. All rights reserved.</p>
+  </footer>
+</body>
+</html>
